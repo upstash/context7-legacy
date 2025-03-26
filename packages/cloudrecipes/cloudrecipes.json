@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Cloud Recipes",
+    "project": "cloudrecipes",
+    "docsRepoUrl": "https://github.com/enesgules/cloud-recipes",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-26",
+    "state": "finalized",
+    "parseDuration": 5977,
+    "totalTokens": 121,
+    "totalSnippets": 2,
+    "averageTokens": 60.5,
+    "errorCount": 0,
+    "totalPages": 1
+  }
+}

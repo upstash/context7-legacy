@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "QStash",
+    "project": "qstash",
+    "docsRepoUrl": "https://github.com/upstash/qstash-js",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-26",
+    "state": "finalized",
+    "parseDuration": 17503,
+    "totalTokens": 3115,
+    "totalSnippets": 52,
+    "averageTokens": 59.90384615384615,
+    "errorCount": 0,
+    "totalPages": 15
+  }
+}

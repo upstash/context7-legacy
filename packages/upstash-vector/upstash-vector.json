@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "title": "Upstash Vector",
+    "project": "upstash-vector",
+    "docsRepoUrl": "https://github.com/upstash/docs",
+    "folders": [
+      "vector"
+    ],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-26",
+    "state": "finalized",
+    "parseDuration": 114025,
+    "totalTokens": 29009,
+    "totalSnippets": 265,
+    "averageTokens": 109.4679245283019,
+    "errorCount": 0,
+    "totalPages": 80
+  }
+}

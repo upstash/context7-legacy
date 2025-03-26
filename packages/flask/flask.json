@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Flask",
+    "project": "flask",
+    "docsRepoUrl": "https://github.com/pallets/flask",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-26",
+    "state": "finalized",
+    "parseDuration": 117569,
+    "totalTokens": 27064,
+    "totalSnippets": 290,
+    "averageTokens": 93.32413793103449,
+    "errorCount": 26,
+    "totalPages": 98
+  }
+}
