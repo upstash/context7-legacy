@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Ansible",
+    "project": "ansible",
+    "docsRepoUrl": "https://github.com/ansible/ansible-documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-22",
+    "state": "finalized",
+    "parseDuration": 401244,
+    "totalTokens": 95469,
+    "totalSnippets": 1043,
+    "averageTokens": 91.53307766059444,
+    "errorCount": 8,
+    "totalPages": 525,
+    "validationDate": "2025-03-22T19:58:02.399Z"
+  }
+}

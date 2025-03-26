@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "SonarQube and SonarCloud",
+    "project": "sonarqube-and-sonarcloud",
+    "docsRepoUrl": "https://github.com/SonarSource/sonar-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 3652,
+    "totalTokens": 0,
+    "totalSnippets": 0,
+    "averageTokens": 0,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:35:17.188Z"
+  }
+}

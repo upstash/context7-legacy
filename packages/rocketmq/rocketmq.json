@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache RocketMQ",
+    "project": "rocketmq",
+    "docsRepoUrl": "https://github.com/apache/rocketmq-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 262670,
+    "totalTokens": 53256,
+    "totalSnippets": 441,
+    "averageTokens": 120.76190476190476,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:33:37.538Z"
+  }
+}

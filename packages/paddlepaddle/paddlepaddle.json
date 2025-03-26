@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "PaddlePaddle",
+    "project": "paddlepaddle",
+    "docsRepoUrl": "https://github.com/PaddlePaddle/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "delete",
+    "parseDuration": 446885,
+    "totalTokens": 62734,
+    "totalSnippets": 728,
+    "averageTokens": 86.17307692307692,
+    "errorCount": -1,
+    "totalPages": 3637
+  }
+}

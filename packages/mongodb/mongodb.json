@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "MongoDB",
+    "project": "mongodb",
+    "docsRepoUrl": "https://github.com/mongodb/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 1312394,
+    "totalTokens": 514562,
+    "totalSnippets": 5313,
+    "averageTokens": 96.84961415396198,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:23:51.306Z"
+  }
+}

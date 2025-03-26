@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Flyway",
+    "project": "flyway",
+    "docsRepoUrl": "https://github.com/flyway/flywaydb.org",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 222533,
+    "totalTokens": 58533,
+    "totalSnippets": 764,
+    "averageTokens": 76.61387434554973,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:05:58.735Z"
+  }
+}

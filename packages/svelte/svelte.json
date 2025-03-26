@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Svelte",
+    "project": "svelte",
+    "docsRepoUrl": "https://github.com/sveltejs/svelte",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-25",
+    "state": "finalized",
+    "parseDuration": 156689,
+    "totalTokens": 26664,
+    "totalSnippets": 317,
+    "averageTokens": 84.11356466876971,
+    "errorCount": 0,
+    "totalPages": 117
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache TomEE",
+    "project": "tomee",
+    "docsRepoUrl": "https://github.com/apache/tomee-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 71339,
+    "totalTokens": 0,
+    "totalSnippets": 0,
+    "averageTokens": 0,
+    "errorCount": 117,
+    "validationDate": "2025-03-20T01:42:21.924Z"
+  }
+}

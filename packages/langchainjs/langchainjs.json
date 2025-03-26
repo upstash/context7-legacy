@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "LangChain.js",
+    "project": "langchainjs",
+    "docsRepoUrl": "https://github.com/langchain-ai/langchainjs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-13",
+    "state": "finalized",
+    "parseDuration": 189800,
+    "totalTokens": 88801,
+    "totalSnippets": 1037,
+    "averageTokens": 85.63259402121504,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:21:17.984Z"
+  }
+}

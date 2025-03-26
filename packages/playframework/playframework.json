@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Play Framework",
+    "project": "playframework",
+    "docsRepoUrl": "https://github.com/playframework/playframework.com",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 15861,
+    "totalTokens": 1608,
+    "totalSnippets": 12,
+    "averageTokens": 134,
+    "needsValidation": true,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:27:42.296Z"
+  }
+}

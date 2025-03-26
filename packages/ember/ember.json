@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Ember.js",
+    "project": "ember",
+    "docsRepoUrl": "https://github.com/ember-learn/guides-source",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "parsed",
+    "parseDuration": 6694668,
+    "totalTokens": 3219044,
+    "totalSnippets": 35974,
+    "averageTokens": 89.48251514983043,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T20:01:46.250Z"
+  }
+}

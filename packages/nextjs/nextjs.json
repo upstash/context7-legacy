@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Next.js",
+    "project": "nextjs",
+    "docsRepoUrl": "https://github.com/vercel/next.js",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-10",
+    "state": "finalized",
+    "parseDuration": 504122,
+    "totalTokens": 206212,
+    "totalSnippets": 2548,
+    "averageTokens": 80.9309262166405,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:24:58.636Z"
+  }
+}

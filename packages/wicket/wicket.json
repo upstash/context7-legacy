@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Wicket",
+    "project": "wicket",
+    "docsRepoUrl": "https://github.com/apache/wicket-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 375505,
+    "totalTokens": 97381,
+    "totalSnippets": 435,
+    "averageTokens": 223.86436781609194,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:43:38.296Z"
+  }
+}

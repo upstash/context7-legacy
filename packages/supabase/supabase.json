@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Supabase",
+    "project": "supabase",
+    "docsRepoUrl": "https://github.com/supabase/supabase",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 1328512,
+    "totalTokens": 353007,
+    "totalSnippets": 3135,
+    "averageTokens": 112.60191387559809,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:41:22.981Z"
+  }
+}

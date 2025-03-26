@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Ktor",
+    "project": "ktor",
+    "docsRepoUrl": "https://github.com/ktorio/ktor-documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 248956,
+    "totalTokens": 54974,
+    "totalSnippets": 751,
+    "averageTokens": 73.20106524633822,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:20:45.494Z"
+  }
+}

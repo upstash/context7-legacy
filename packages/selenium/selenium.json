@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Selenium",
+    "project": "selenium",
+    "docsRepoUrl": "https://github.com/SeleniumHQ/seleniumhq.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 1132367,
+    "totalTokens": 87718,
+    "totalSnippets": 991,
+    "averageTokens": 88.51463168516649,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:34:26.717Z"
+  }
+}

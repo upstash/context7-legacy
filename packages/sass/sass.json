@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Sass",
+    "project": "sass",
+    "docsRepoUrl": "https://github.com/sass/sass-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 90575,
+    "totalTokens": 33657,
+    "totalSnippets": 381,
+    "averageTokens": 88.33858267716535,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:34:05.668Z"
+  }
+}

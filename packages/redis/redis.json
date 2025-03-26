@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Redis",
+    "project": "redis",
+    "docsRepoUrl": "https://github.com/redis/redis-doc",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 243609,
+    "totalTokens": 71902,
+    "totalSnippets": 691,
+    "averageTokens": 104.05499276410998,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:32:49.907Z"
+  }
+}

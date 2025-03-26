@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "TypeORM",
+    "project": "typeorm",
+    "docsRepoUrl": "https://github.com/typeorm/typeorm",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 111697,
+    "totalTokens": 54200,
+    "totalSnippets": 558,
+    "averageTokens": 97.1326164874552,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:42:32.888Z"
+  }
+}

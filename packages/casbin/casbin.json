@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Casbin",
+    "project": "casbin",
+    "docsRepoUrl": "https://github.com/casbin/casbin-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 75067,
+    "totalTokens": 14918,
+    "totalSnippets": 147,
+    "averageTokens": 101.48299319727892,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:21:16.798Z"
+  }
+}

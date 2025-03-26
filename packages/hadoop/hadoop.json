@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Hadoop",
+    "project": "hadoop",
+    "docsRepoUrl": "https://github.com/apache/hadoop-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 1073983,
+    "totalTokens": 7097,
+    "totalSnippets": 94,
+    "averageTokens": 75.5,
+    "errorCount": 93,
+    "validationDate": "2025-03-20T01:13:08.228Z"
+  }
+}

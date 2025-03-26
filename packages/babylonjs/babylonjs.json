@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Babylon.js",
+    "project": "babylonjs",
+    "docsRepoUrl": "https://github.com/BabylonJS/Documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 996360,
+    "totalTokens": 234363,
+    "totalSnippets": 2072,
+    "averageTokens": 113.10955598455598,
+    "errorCount": 7,
+    "validationDate": "2025-03-20T00:12:54.579Z"
+  }
+}

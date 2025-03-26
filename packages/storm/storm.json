@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Storm",
+    "project": "storm",
+    "docsRepoUrl": "https://github.com/apache/storm-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 3060051,
+    "totalTokens": 635253,
+    "totalSnippets": 5177,
+    "averageTokens": 122.70677998841028,
+    "errorCount": 89,
+    "validationDate": "2025-03-20T01:40:17.766Z"
+  }
+}

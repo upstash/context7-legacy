@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "gRPC-Gateway",
+    "project": "grpc-gateway",
+    "docsRepoUrl": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 62928,
+    "totalTokens": 13686,
+    "totalSnippets": 112,
+    "averageTokens": 122.19642857142857,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:07:12.566Z"
+  }
+}

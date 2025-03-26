@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Istio",
+    "project": "istio",
+    "docsRepoUrl": "https://github.com/istio/istio.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 817035,
+    "totalTokens": 160427,
+    "totalSnippets": 1585,
+    "averageTokens": 101.21577287066246,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:18:47.389Z"
+  }
+}

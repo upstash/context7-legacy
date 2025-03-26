@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "JavaGuide",
+    "project": "javaguide",
+    "docsRepoUrl": "https://github.com/Snailclimb/JavaGuide",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 197682,
+    "totalTokens": 45475,
+    "totalSnippets": 333,
+    "averageTokens": 136.56156156156158,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:19:04.370Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Conda",
+    "project": "conda",
+    "docsRepoUrl": "https://github.com/conda/conda-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 17806,
+    "totalTokens": 1747,
+    "totalSnippets": 19,
+    "averageTokens": 91.94736842105263,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:22:43.607Z"
+  }
+}

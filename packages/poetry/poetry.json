@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Poetry",
+    "project": "poetry",
+    "docsRepoUrl": "https://github.com/python-poetry/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 59969,
+    "totalTokens": 6747,
+    "totalSnippets": 118,
+    "averageTokens": 57.17796610169491,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:27:48.740Z"
+  }
+}

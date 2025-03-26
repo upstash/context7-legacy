@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "n8n",
+    "project": "n8n",
+    "docsRepoUrl": "https://github.com/n8n-io/n8n-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 719488,
+    "totalTokens": 70862,
+    "totalSnippets": 637,
+    "averageTokens": 111.24332810047096,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:24:16.768Z"
+  }
+}

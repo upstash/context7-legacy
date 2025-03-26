@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Jasmine",
+    "project": "jasmine",
+    "docsRepoUrl": "https://github.com/jasmine/jasmine.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 108666,
+    "totalTokens": 16613,
+    "totalSnippets": 163,
+    "averageTokens": 101.920245398773,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:19:00.234Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Eclipse Che",
+    "project": "che",
+    "docsRepoUrl": "https://github.com/eclipse/che-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 15701,
+    "totalTokens": 207,
+    "totalSnippets": 2,
+    "averageTokens": 103.5,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:21:38.262Z"
+  }
+}

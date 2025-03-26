@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "FastAPI",
+    "project": "fastapi",
+    "docsRepoUrl": "https://github.com/tiangolo/fastapi",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 334920,
+    "totalTokens": 46413,
+    "totalSnippets": 556,
+    "averageTokens": 83.47661870503597,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:04:44.617Z"
+  }
+}

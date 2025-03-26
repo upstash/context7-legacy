@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Eleventy",
+    "project": "eleventy",
+    "docsRepoUrl": "https://github.com/11ty/11ty-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 327323,
+    "totalTokens": 56257,
+    "totalSnippets": 583,
+    "averageTokens": 96.49571183533448,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:04:28.440Z"
+  }
+}

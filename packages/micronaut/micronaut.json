@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Micronaut",
+    "project": "micronaut",
+    "docsRepoUrl": "https://github.com/micronaut-projects/micronaut-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 224412,
+    "totalTokens": 90,
+    "totalSnippets": 2,
+    "averageTokens": 45,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:23:10.213Z"
+  }
+}

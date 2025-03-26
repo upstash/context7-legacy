@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Prefect",
+    "project": "prefect",
+    "docsRepoUrl": "https://github.com/PrefectHQ/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 193330,
+    "totalTokens": 287,
+    "totalSnippets": 4,
+    "averageTokens": 71.75,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:30:20.562Z"
+  }
+}

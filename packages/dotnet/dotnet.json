@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": ".NET",
+    "project": "dotnet",
+    "docsRepoUrl": "https://github.com/dotnet/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "parsed",
+    "parseDuration": 5663140,
+    "totalTokens": 2321084,
+    "totalSnippets": 21279,
+    "averageTokens": 109.07862211570092,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T20:01:03.996Z"
+  }
+}

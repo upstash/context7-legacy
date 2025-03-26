@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "TypeScript",
+    "project": "typescript",
+    "docsRepoUrl": "https://github.com/microsoft/TypeScript-Website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 248040,
+    "totalTokens": 82162,
+    "totalSnippets": 918,
+    "averageTokens": 89.50108932461873,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:42:35.175Z"
+  }
+}

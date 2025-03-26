@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Stencil",
+    "project": "stencil",
+    "docsRepoUrl": "https://github.com/ionic-team/stencil-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "finalized",
+    "parseDuration": 2934269,
+    "totalTokens": 901373,
+    "totalSnippets": 8654,
+    "averageTokens": 104.15680610122487,
+    "errorCount": 5,
+    "totalPages": 2529
+  }
+}

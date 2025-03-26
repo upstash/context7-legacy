@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Dubbo",
+    "project": "dubbo",
+    "docsRepoUrl": "https://github.com/apache/dubbo-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 1303682,
+    "totalTokens": 228195,
+    "totalSnippets": 2027,
+    "averageTokens": 112.57770103601382,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:02:58.656Z"
+  }
+}

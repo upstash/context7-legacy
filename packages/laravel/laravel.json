@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Laravel",
+    "project": "laravel",
+    "docsRepoUrl": "https://github.com/laravel/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 121842,
+    "totalTokens": 38163,
+    "totalSnippets": 505,
+    "averageTokens": 75.57029702970297,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:21:24.615Z"
+  }
+}

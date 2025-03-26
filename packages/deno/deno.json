@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Deno",
+    "project": "deno",
+    "docsRepoUrl": "https://github.com/denoland/deno",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 45661,
+    "totalTokens": 9285,
+    "totalSnippets": 111,
+    "averageTokens": 83.64864864864865,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:25:40.414Z"
+  }
+}

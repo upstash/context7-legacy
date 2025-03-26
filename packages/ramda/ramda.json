@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Ramda",
+    "project": "ramda",
+    "docsRepoUrl": "https://github.com/ramda/ramda.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 31066,
+    "totalTokens": 1808,
+    "totalSnippets": 23,
+    "averageTokens": 78.6086956521739,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:32:00.842Z"
+  }
+}

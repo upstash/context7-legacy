@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Accumulo",
+    "project": "accumulo",
+    "docsRepoUrl": "https://github.com/apache/accumulo-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 351147,
+    "totalTokens": 105707,
+    "totalSnippets": 855,
+    "averageTokens": 123.63391812865497,
+    "errorCount": 2,
+    "validationDate": "2025-03-19T23:40:58.578Z"
+  }
+}

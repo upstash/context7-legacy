@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Moment.js",
+    "project": "momentjs",
+    "docsRepoUrl": "https://github.com/moment/momentjs.com",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-13",
+    "state": "finalized",
+    "parseDuration": 93118,
+    "totalTokens": 44317,
+    "totalSnippets": 471,
+    "averageTokens": 94.09129511677283,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:23:37.473Z"
+  }
+}

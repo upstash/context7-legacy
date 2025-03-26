@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Struts",
+    "project": "struts",
+    "docsRepoUrl": "https://github.com/apache/struts-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 372620,
+    "totalTokens": 96104,
+    "totalSnippets": 846,
+    "averageTokens": 113.59810874704492,
+    "errorCount": 4,
+    "validationDate": "2025-03-20T01:40:37.225Z"
+  }
+}

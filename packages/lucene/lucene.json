@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Apache Lucene",
+    "project": "lucene",
+    "docsRepoUrl": "https://github.com/apache/lucene-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 81076,
+    "totalTokens": 1662,
+    "totalSnippets": 25,
+    "averageTokens": 66.48,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:22:02.837Z"
+  }
+}

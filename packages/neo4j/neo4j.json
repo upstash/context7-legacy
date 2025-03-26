@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Neo4j",
+    "project": "neo4j",
+    "docsRepoUrl": "https://github.com/neo4j/neo4j-documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 33775,
+    "totalTokens": 260,
+    "totalSnippets": 2,
+    "averageTokens": 130,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:24:22.170Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Spark",
+    "project": "spark",
+    "docsRepoUrl": "https://github.com/apache/spark-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 399387,
+    "totalTokens": 31015,
+    "totalSnippets": 289,
+    "averageTokens": 107.31833910034602,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:37:54.494Z"
+  }
+}

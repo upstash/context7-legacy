@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "React Hook Form",
+    "project": "react-hook-form",
+    "docsRepoUrl": "https://github.com/react-hook-form/documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 58065,
+    "totalTokens": 15983,
+    "totalSnippets": 84,
+    "averageTokens": 190.27380952380952,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:32:12.569Z"
+  }
+}

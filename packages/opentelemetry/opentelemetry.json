@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "OpenTelemetry",
+    "project": "opentelemetry",
+    "docsRepoUrl": "https://github.com/open-telemetry/opentelemetry.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 581225,
+    "totalTokens": 141096,
+    "totalSnippets": 1061,
+    "averageTokens": 132.98397737983035,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:26:47.764Z"
+  }
+}

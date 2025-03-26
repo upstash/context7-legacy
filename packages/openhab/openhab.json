@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "openHAB",
+    "project": "openhab",
+    "docsRepoUrl": "https://github.com/openhab/openhab-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 159114,
+    "totalTokens": 35036,
+    "totalSnippets": 326,
+    "averageTokens": 107.47239263803681,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:26:26.963Z"
+  }
+}

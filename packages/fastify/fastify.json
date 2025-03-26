@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Fastify",
+    "project": "fastify",
+    "docsRepoUrl": "https://github.com/fastify/fastify",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 49492,
+    "totalTokens": 22531,
+    "totalSnippets": 176,
+    "averageTokens": 128.01704545454547,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:04:56.113Z"
+  }
+}

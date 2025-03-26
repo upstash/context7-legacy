@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Arrow",
+    "project": "arrow",
+    "docsRepoUrl": "https://github.com/apache/arrow-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 1431499,
+    "totalTokens": 38368,
+    "totalSnippets": 278,
+    "averageTokens": 138.01438848920864,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T00:10:09.765Z"
+  }
+}

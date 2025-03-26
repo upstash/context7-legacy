@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "NestJS",
+    "project": "nestjs",
+    "docsRepoUrl": "https://github.com/nestjs/docs.nestjs.com",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 125418,
+    "totalTokens": 66880,
+    "totalSnippets": 734,
+    "averageTokens": 91.11716621253406,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:24:27.990Z"
+  }
+}

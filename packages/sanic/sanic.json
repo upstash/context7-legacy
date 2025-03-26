@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Sanic",
+    "project": "sanic",
+    "docsRepoUrl": "https://github.com/sanic-org/sanic-guide",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 179932,
+    "totalTokens": 37223,
+    "totalSnippets": 413,
+    "averageTokens": 90.12832929782083,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:34:02.119Z"
+  }
+}

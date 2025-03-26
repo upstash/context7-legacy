@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Quarkus",
+    "project": "quarkus",
+    "docsRepoUrl": "https://github.com/quarkusio/quarkusio.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 335370,
+    "totalTokens": 11828,
+    "totalSnippets": 127,
+    "averageTokens": 93.13385826771653,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:31:32.695Z"
+  }
+}

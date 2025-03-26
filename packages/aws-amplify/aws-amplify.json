@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "AWS Amplify",
+    "project": "aws-amplify",
+    "docsRepoUrl": "https://github.com/aws-amplify/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "parsed",
+    "parseDuration": 3215022,
+    "totalTokens": 970263,
+    "totalSnippets": 8052,
+    "averageTokens": 120.49962742175857,
+    "errorCount": 11,
+    "validationDate": "2025-03-22T20:00:05.273Z"
+  }
+}

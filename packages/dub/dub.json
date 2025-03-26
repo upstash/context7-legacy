@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Dub",
+    "project": "dub",
+    "docsRepoUrl": "https://github.com/dubinc/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-24",
+    "state": "finalized",
+    "parseDuration": 136215,
+    "totalTokens": 37708,
+    "totalSnippets": 303,
+    "averageTokens": 124.44884488448845,
+    "errorCount": 0,
+    "totalPages": 140
+  }
+}

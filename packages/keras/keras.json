@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Keras",
+    "project": "keras",
+    "docsRepoUrl": "https://github.com/keras-team/keras-io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 728454,
+    "totalTokens": 511100,
+    "totalSnippets": 2554,
+    "averageTokens": 200.11746280344556,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:20:10.196Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Semantic Cache",
+    "project": "semantic-cache",
+    "docsRepoUrl": "https://github.com/upstash/semantic-cache",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-24",
+    "state": "finalized",
+    "parseDuration": 13574,
+    "totalTokens": 466,
+    "totalSnippets": 4,
+    "averageTokens": 116.5,
+    "errorCount": 0,
+    "totalPages": 1
+  }
+}

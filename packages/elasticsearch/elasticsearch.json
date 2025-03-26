@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Elasticsearch",
+    "project": "elasticsearch",
+    "docsRepoUrl": "https://github.com/elastic/elasticsearch",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 1804847,
+    "totalTokens": 333067,
+    "totalSnippets": 3138,
+    "averageTokens": 106.13989802421925,
+    "errorCount": 5,
+    "validationDate": "2025-03-20T01:04:22.373Z"
+  }
+}

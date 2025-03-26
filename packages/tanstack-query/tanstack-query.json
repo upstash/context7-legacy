@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "TanStack Query",
+    "project": "tanstack-query",
+    "docsRepoUrl": "https://github.com/TanStack/query",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 1320921,
+    "totalTokens": 74720,
+    "totalSnippets": 667,
+    "averageTokens": 112.023988005997,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:41:52.090Z"
+  }
+}

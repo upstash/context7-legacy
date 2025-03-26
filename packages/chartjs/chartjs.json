@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Chart.js",
+    "project": "chartjs",
+    "docsRepoUrl": "https://github.com/chartjs/Chart.js",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-13",
+    "state": "finalized",
+    "parseDuration": 99613,
+    "totalTokens": 69208,
+    "totalSnippets": 313,
+    "averageTokens": 221.11182108626198,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:21:27.809Z"
+  }
+}

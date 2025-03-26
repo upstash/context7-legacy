@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Angular",
+    "project": "angular",
+    "docsRepoUrl": "https://github.com/angular/angular",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 559342,
+    "totalTokens": 135528,
+    "totalSnippets": 1473,
+    "averageTokens": 92.0081466395112,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T00:07:20.530Z"
+  }
+}

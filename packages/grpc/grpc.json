@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "gRPC",
+    "project": "grpc",
+    "docsRepoUrl": "https://github.com/grpc/grpc.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 178435,
+    "totalTokens": 44487,
+    "totalSnippets": 420,
+    "averageTokens": 105.92142857142858,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:07:08.270Z"
+  }
+}

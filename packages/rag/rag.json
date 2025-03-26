@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "RAG",
+    "project": "rag",
+    "docsRepoUrl": "https://github.com/enesgules/rag-chatbot-ai-sdk",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-24",
+    "state": "delete",
+    "parseDuration": 4636,
+    "totalTokens": 66,
+    "totalSnippets": 1,
+    "averageTokens": 66,
+    "errorCount": 0,
+    "totalPages": 1
+  }
+}

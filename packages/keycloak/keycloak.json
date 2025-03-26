@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Keycloak",
+    "project": "keycloak",
+    "docsRepoUrl": "https://github.com/keycloak/keycloak-documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 11076,
+    "totalTokens": 0,
+    "totalSnippets": 0,
+    "averageTokens": 0,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:20:12.944Z"
+  }
+}

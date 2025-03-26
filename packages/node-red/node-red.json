@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Node-RED",
+    "project": "node-red",
+    "docsRepoUrl": "https://github.com/node-red/node-red.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 203320,
+    "totalTokens": 37222,
+    "totalSnippets": 406,
+    "averageTokens": 91.67980295566502,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:25:18.758Z"
+  }
+}

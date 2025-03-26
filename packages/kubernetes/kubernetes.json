@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Kubernetes",
+    "project": "kubernetes",
+    "docsRepoUrl": "https://github.com/kubernetes/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 1567044,
+    "totalTokens": 421721,
+    "totalSnippets": 4203,
+    "averageTokens": 100.3380918391625,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:21:08.838Z"
+  }
+}

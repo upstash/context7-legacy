@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Sequelize",
+    "project": "sequelize",
+    "docsRepoUrl": "https://github.com/sequelize/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 205420,
+    "totalTokens": 43627,
+    "totalSnippets": 396,
+    "averageTokens": 110.16919191919192,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:34:38.328Z"
+  }
+}

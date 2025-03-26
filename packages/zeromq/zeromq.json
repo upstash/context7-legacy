@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "ZeroMQ",
+    "project": "zeromq",
+    "docsRepoUrl": "https://github.com/zeromq/zeromq.org",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 104710,
+    "totalTokens": 21265,
+    "totalSnippets": 187,
+    "averageTokens": 113.71657754010695,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:43:52.840Z"
+  }
+}

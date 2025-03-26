@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Puter",
+    "project": "puter",
+    "docsRepoUrl": "https://github.com/HeyPuter/puter",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-19",
+    "state": "finalized",
+    "parseDuration": 89270,
+    "totalTokens": 17154,
+    "totalSnippets": 151,
+    "averageTokens": 113.60264900662251,
+    "totalPages": 133,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:30:48.525Z"
+  }
+}

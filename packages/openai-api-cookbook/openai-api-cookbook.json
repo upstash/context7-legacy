@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "title": "OpenAI API Cookbook",
+    "project": "openai-api-cookbook",
+    "docsRepoUrl": "https://github.com/openai/openai-cookbook",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 99270,
+    "totalTokens": 40183,
+    "totalSnippets": 225,
+    "averageTokens": 178.5911111111111
+  }
+}

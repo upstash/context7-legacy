@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "title": "SiYuan",
+    "project": "siyuan",
+    "docsRepoUrl": "https://github.com/siyuan-note/siyuan",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-19",
+    "state": "finalized",
+    "parseDuration": 97169,
+    "totalTokens": 639,
+    "totalSnippets": 10,
+    "averageTokens": 63.9,
+    "totalPages": 277,
+    "needsValidation": true,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:34:51.155Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Kubeflow",
+    "project": "kubeflow",
+    "docsRepoUrl": "https://github.com/kubeflow/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 219609,
+    "totalTokens": 60322,
+    "totalSnippets": 478,
+    "averageTokens": 126.19665271966527,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:20:51.157Z"
+  }
+}

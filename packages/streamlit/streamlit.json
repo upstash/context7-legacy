@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Streamlit",
+    "project": "streamlit",
+    "docsRepoUrl": "https://github.com/streamlit/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "finalized",
+    "parseDuration": 285550,
+    "totalTokens": 62623,
+    "totalSnippets": 687,
+    "averageTokens": 91.15429403202329,
+    "errorCount": 0,
+    "totalPages": 365
+  }
+}

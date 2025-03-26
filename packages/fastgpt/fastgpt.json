@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "FastGPT",
+    "project": "fastgpt",
+    "docsRepoUrl": "https://github.com/labring/FastGPT",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 161632,
+    "totalTokens": 13040,
+    "totalSnippets": 82,
+    "averageTokens": 159.02439024390245,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:04:53.057Z"
+  }
+}

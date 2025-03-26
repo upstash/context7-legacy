@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Magento 2",
+    "project": "magento2",
+    "docsRepoUrl": "https://github.com/magento/magento2",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 579687,
+    "totalTokens": 33498,
+    "totalSnippets": 327,
+    "averageTokens": 102.44036697247707,
+    "errorCount": 6,
+    "validationDate": "2025-03-20T01:22:28.825Z"
+  }
+}

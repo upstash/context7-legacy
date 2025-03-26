@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Ant Design",
+    "project": "ant-design",
+    "docsRepoUrl": "https://github.com/ant-design/ant-design",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 449967,
+    "totalTokens": 131785,
+    "totalSnippets": 1175,
+    "averageTokens": 112.15744680851064,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:07:34.099Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "React Navigation",
+    "project": "react-navigation",
+    "docsRepoUrl": "https://github.com/react-navigation/react-navigation.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 645258,
+    "totalTokens": 181163,
+    "totalSnippets": 1499,
+    "averageTokens": 120.8559039359573,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:32:25.997Z"
+  }
+}

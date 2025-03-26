@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "FireCrawl",
+    "project": "firecrawl",
+    "docsRepoUrl": "https://github.com/mendableai/firecrawl",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-19",
+    "state": "finalized",
+    "parseDuration": 75400,
+    "totalTokens": 21811,
+    "totalSnippets": 165,
+    "averageTokens": 132.1878787878788,
+    "totalPages": 56,
+    "errorCount": 5,
+    "validationDate": "2025-03-20T01:05:21.230Z"
+  }
+}

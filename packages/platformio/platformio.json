@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "PlatformIO",
+    "project": "platformio",
+    "docsRepoUrl": "https://github.com/platformio/platformio-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 1661146,
+    "totalTokens": 346030,
+    "totalSnippets": 4078,
+    "averageTokens": 84.85286905345758,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:27:38.621Z"
+  }
+}

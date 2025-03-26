@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Ghost",
+    "project": "ghost",
+    "docsRepoUrl": "https://github.com/TryGhost/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 31338,
+    "totalTokens": 4165,
+    "totalSnippets": 41,
+    "averageTokens": 101.58536585365853,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:06:21.467Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Apache Kafka",
+    "project": "kafka",
+    "docsRepoUrl": "https://github.com/apache/kafka-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "error",
+    "parseDuration": 29232,
+    "totalTokens": 8984,
+    "totalSnippets": 22,
+    "averageTokens": 408.3636363636364,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T20:03:46.529Z"
+  }
+}

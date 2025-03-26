@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Hugo",
+    "project": "hugo",
+    "docsRepoUrl": "https://github.com/gohugoio/hugoDocs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 546280,
+    "totalTokens": 142129,
+    "totalSnippets": 1617,
+    "averageTokens": 87.89672232529375,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:17:23.207Z"
+  }
+}

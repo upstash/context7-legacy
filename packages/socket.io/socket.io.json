@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Socket.IO",
+    "project": "socket.io",
+    "docsRepoUrl": "https://github.com/socketio/socket.io-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "parsed",
+    "parseDuration": 508288,
+    "totalTokens": 156739,
+    "totalSnippets": 1439,
+    "averageTokens": 108.9221681723419,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T21:08:11.464Z"
+  }
+}

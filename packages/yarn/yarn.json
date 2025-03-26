@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Yarn",
+    "project": "yarn",
+    "docsRepoUrl": "https://github.com/yarnpkg/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 96733,
+    "totalTokens": 19684,
+    "totalSnippets": 260,
+    "averageTokens": 75.70769230769231,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:43:46.315Z"
+  }
+}

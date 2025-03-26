@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Bootstrap",
+    "project": "bootstrap",
+    "docsRepoUrl": "https://github.com/twbs/bootstrap",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 216870,
+    "totalTokens": 50180,
+    "totalSnippets": 439,
+    "averageTokens": 114.30523917995444,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T00:13:15.583Z"
+  }
+}

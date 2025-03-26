@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Fabric",
+    "project": "fabric",
+    "docsRepoUrl": "https://github.com/FabricMC/fabric-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 408960,
+    "totalTokens": 67406,
+    "totalSnippets": 635,
+    "averageTokens": 106.1511811023622,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:04:40.304Z"
+  }
+}

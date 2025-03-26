@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Axios",
+    "project": "axios",
+    "docsRepoUrl": "https://github.com/axios/axios-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-13",
+    "state": "finalized",
+    "parseDuration": 37495,
+    "totalTokens": 12875,
+    "totalSnippets": 97,
+    "averageTokens": 132.7319587628866,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:10:41.405Z"
+  }
+}

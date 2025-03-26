@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "DVC",
+    "project": "dvc",
+    "docsRepoUrl": "https://github.com/iterative/dvc.org",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 337019,
+    "totalTokens": 80078,
+    "totalSnippets": 910,
+    "averageTokens": 87.9978021978022,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:03:12.821Z"
+  }
+}

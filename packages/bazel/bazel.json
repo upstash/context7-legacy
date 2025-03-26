@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Bazel",
+    "project": "bazel",
+    "docsRepoUrl": "https://github.com/bazelbuild/bazel-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 40456,
+    "totalTokens": 6209,
+    "totalSnippets": 53,
+    "averageTokens": 117.15094339622641,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:13:10.120Z"
+  }
+}

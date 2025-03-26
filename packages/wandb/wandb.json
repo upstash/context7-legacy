@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Weights & Biases",
+    "project": "wandb",
+    "docsRepoUrl": "https://github.com/wandb/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "parsed",
+    "parseDuration": 530018,
+    "totalTokens": 115295,
+    "totalSnippets": 1080,
+    "averageTokens": 106.75462962962963,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T21:13:18.409Z"
+  }
+}

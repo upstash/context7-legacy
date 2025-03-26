@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "NextAuth.js",
+    "project": "nextauthjs",
+    "docsRepoUrl": "https://github.com/nextauthjs/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 161429,
+    "totalTokens": 47967,
+    "totalSnippets": 379,
+    "averageTokens": 126.56200527704486,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:24:32.611Z"
+  }
+}

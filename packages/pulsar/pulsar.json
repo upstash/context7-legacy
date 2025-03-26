@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Pulsar",
+    "project": "pulsar",
+    "docsRepoUrl": "https://github.com/apache/pulsar-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "parsed",
+    "parseDuration": 7741213,
+    "totalTokens": 2168945,
+    "totalSnippets": 24016,
+    "averageTokens": 90.3125,
+    "errorCount": 94,
+    "validationDate": "2025-03-22T21:06:31.162Z"
+  }
+}

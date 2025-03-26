@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Graylog",
+    "project": "graylog",
+    "docsRepoUrl": "https://github.com/Graylog2/documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 74738,
+    "totalTokens": 0,
+    "totalSnippets": 0,
+    "averageTokens": 0,
+    "errorCount": 166,
+    "validationDate": "2025-03-20T01:07:03.441Z"
+  }
+}

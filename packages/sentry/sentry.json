@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Sentry",
+    "project": "sentry",
+    "docsRepoUrl": "https://github.com/getsentry/sentry-docs",
+    "folders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "finalized",
+    "parseDuration": 2777142,
+    "totalTokens": 645537,
+    "totalSnippets": 6040,
+    "averageTokens": 106.8769867549669,
+    "errorCount": 13,
+    "totalPages": 3806
+  }
+}

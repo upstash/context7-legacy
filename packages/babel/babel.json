@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Babel",
+    "project": "babel",
+    "docsRepoUrl": "https://github.com/babel/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-20",
+    "state": "finalized",
+    "parseDuration": 432725,
+    "totalTokens": 92649,
+    "totalSnippets": 1469,
+    "averageTokens": 63.069434989788974,
+    "totalPages": 381,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T18:42:21.002Z"
+  }
+}

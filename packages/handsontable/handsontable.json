@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Handsontable",
+    "project": "handsontable",
+    "docsRepoUrl": "https://github.com/handsontable/handsontable",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 340230,
+    "totalTokens": 58283,
+    "totalSnippets": 506,
+    "averageTokens": 115.18379446640316,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:13:19.860Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Nightwatch.js",
+    "project": "nightwatch",
+    "docsRepoUrl": "https://github.com/nightwatchjs/nightwatch-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 226304,
+    "totalTokens": 66089,
+    "totalSnippets": 597,
+    "averageTokens": 110.70184254606365,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:25:06.398Z"
+  }
+}

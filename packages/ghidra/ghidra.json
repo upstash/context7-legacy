@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Ghidra",
+    "project": "ghidra",
+    "docsRepoUrl": "https://github.com/NationalSecurityAgency/ghidra",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 183896,
+    "totalTokens": 15565,
+    "totalSnippets": 150,
+    "averageTokens": 103.76666666666667,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:06:18.843Z"
+  }
+}

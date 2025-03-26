@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Maven",
+    "project": "maven",
+    "docsRepoUrl": "https://github.com/apache/maven-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 103606,
+    "totalTokens": 23103,
+    "totalSnippets": 153,
+    "averageTokens": 151,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:22:42.216Z"
+  }
+}

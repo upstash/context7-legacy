@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Scala",
+    "project": "scala",
+    "docsRepoUrl": "https://github.com/scala/docs.scala-lang",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 667057,
+    "totalTokens": 142543,
+    "totalSnippets": 1525,
+    "averageTokens": 93.47081967213114,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:34:11.002Z"
+  }
+}

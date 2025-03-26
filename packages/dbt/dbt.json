@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "dbt",
+    "project": "dbt",
+    "docsRepoUrl": "https://github.com/dbt-labs/docs.getdbt.com",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 961815,
+    "totalTokens": 219884,
+    "totalSnippets": 2067,
+    "averageTokens": 106.37832607643928,
+    "errorCount": 5,
+    "validationDate": "2025-03-20T00:25:21.893Z"
+  }
+}

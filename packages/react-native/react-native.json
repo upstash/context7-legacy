@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "React Native",
+    "project": "react-native",
+    "docsRepoUrl": "https://github.com/facebook/react-native-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "parsed",
+    "parseDuration": 1254727,
+    "totalTokens": 754155,
+    "totalSnippets": 5547,
+    "averageTokens": 135.9572742022715,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T21:07:38.025Z"
+  }
+}

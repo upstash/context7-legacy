@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Open Liberty",
+    "project": "openliberty",
+    "docsRepoUrl": "https://github.com/OpenLiberty/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 17841,
+    "totalTokens": 38,
+    "totalSnippets": 1,
+    "averageTokens": 38,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:26:29.468Z"
+  }
+}

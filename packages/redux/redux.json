@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Redux",
+    "project": "redux",
+    "docsRepoUrl": "https://github.com/reduxjs/redux",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 630668,
+    "totalTokens": 38820,
+    "totalSnippets": 306,
+    "averageTokens": 126.86274509803921,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:32:54.214Z"
+  }
+}

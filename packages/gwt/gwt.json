@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Google Web Toolkit",
+    "project": "gwt",
+    "docsRepoUrl": "https://github.com/gwtproject/gwt-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 207966,
+    "totalTokens": 54481,
+    "totalSnippets": 428,
+    "averageTokens": 127.29205607476635,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:07:24.898Z"
+  }
+}

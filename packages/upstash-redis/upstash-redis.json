@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "title": "Upstash Redis",
+    "project": "upstash-redis",
+    "docsRepoUrl": "https://github.com/upstash/docs",
+    "folders": [
+      "redis"
+    ],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-24",
+    "state": "finalized",
+    "parseDuration": 311842,
+    "totalTokens": 74925,
+    "totalSnippets": 717,
+    "averageTokens": 104.4979079497908,
+    "errorCount": 2,
+    "totalPages": 436
+  }
+}

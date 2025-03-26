@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Minecraft Forge",
+    "project": "minecraftforge",
+    "docsRepoUrl": "https://github.com/MinecraftForge/Documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 84388,
+    "totalTokens": 22550,
+    "totalSnippets": 202,
+    "averageTokens": 111.63366336633663,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:23:19.688Z"
+  }
+}

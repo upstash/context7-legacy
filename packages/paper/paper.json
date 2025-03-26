@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Paper",
+    "project": "paper",
+    "docsRepoUrl": "https://github.com/PaperMC/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 247391,
+    "totalTokens": 65729,
+    "totalSnippets": 572,
+    "averageTokens": 114.91083916083916,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:27:16.509Z"
+  }
+}

@@ -134,3 +134,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+exportProjects.js
+exportProjects.ts
+index.ts
+package-lock.json
+package.json
+Store.js
+Store.ts
+tsconfig.json
+lib/types.js
+lib/types.ts

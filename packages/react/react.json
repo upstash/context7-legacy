@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "React",
+    "project": "react",
+    "docsRepoUrl": "https://github.com/reactjs/react.dev",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 161490,
+    "totalTokens": 52202,
+    "totalSnippets": 527,
+    "averageTokens": 99.05502846299811,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:32:09.823Z"
+  }
+}

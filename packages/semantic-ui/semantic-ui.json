@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Semantic UI",
+    "project": "semantic-ui",
+    "docsRepoUrl": "https://github.com/Semantic-Org/Semantic-UI-Docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 16411,
+    "totalTokens": 325,
+    "totalSnippets": 7,
+    "averageTokens": 46.42857142857143,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:34:33.892Z"
+  }
+}

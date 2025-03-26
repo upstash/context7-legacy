@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Nuxt",
+    "project": "nuxt",
+    "docsRepoUrl": "https://github.com/nuxt/nuxt",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 146019,
+    "totalTokens": 60261,
+    "totalSnippets": 646,
+    "averageTokens": 93.28328173374614,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:25:31.789Z"
+  }
+}

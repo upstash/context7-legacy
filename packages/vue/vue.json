@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Vue.js",
+    "project": "vue",
+    "docsRepoUrl": "https://github.com/vuejs/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 159051,
+    "totalTokens": 46150,
+    "totalSnippets": 518,
+    "averageTokens": 89.0926640926641,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:43:28.847Z"
+  }
+}

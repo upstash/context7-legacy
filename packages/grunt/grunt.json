@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Grunt",
+    "project": "grunt",
+    "docsRepoUrl": "https://github.com/gruntjs/grunt-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 82283,
+    "totalTokens": 10816,
+    "totalSnippets": 151,
+    "averageTokens": 71.62913907284768,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:07:15.028Z"
+  }
+}

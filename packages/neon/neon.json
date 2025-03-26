@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "title": "Neon",
+    "project": "neon",
+    "docsRepoUrl": "https://github.com/neondatabase/website",
+    "folders": [
+      "content"
+    ],
+    "excludeFolders": []
+  },
+  "version": {
+    "lastUpdate": "2025-03-24",
+    "state": "finalized",
+    "parseDuration": 3261175,
+    "totalTokens": 403428,
+    "totalSnippets": 4278,
+    "averageTokens": 94.30294530154278,
+    "errorCount": 4,
+    "totalPages": 1123
+  }
+}

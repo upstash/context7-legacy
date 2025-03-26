@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "V8",
+    "project": "v8",
+    "docsRepoUrl": "https://github.com/v8/v8.dev",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 280735,
+    "totalTokens": 73134,
+    "totalSnippets": 748,
+    "averageTokens": 97.77272727272727,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:43:04.517Z"
+  }
+}

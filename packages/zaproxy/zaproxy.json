@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "OWASP Zed Attack Proxy",
+    "project": "zaproxy",
+    "docsRepoUrl": "https://github.com/zaproxy/zaproxy-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 654992,
+    "totalTokens": 123724,
+    "totalSnippets": 805,
+    "averageTokens": 153.6944099378882,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:43:50.984Z"
+  }
+}

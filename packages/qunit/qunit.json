@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "QUnit",
+    "project": "qunit",
+    "docsRepoUrl": "https://github.com/qunitjs/api.qunitjs.com",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 32213,
+    "totalTokens": 7889,
+    "totalSnippets": 68,
+    "averageTokens": 116.01470588235294,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:31:35.532Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Mastra",
+    "project": "mastra",
+    "docsRepoUrl": "https://github.com/mastra-ai/mastra",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 459081,
+    "totalTokens": 141462,
+    "totalSnippets": 1207,
+    "averageTokens": 117.2013256006628,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:22:37.174Z"
+  }
+}

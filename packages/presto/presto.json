@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "title": "Presto",
+    "project": "presto",
+    "docsRepoUrl": "https://github.com/prestodb/prestodb.github.io",
+    "folders": [
+      "website/static/docs/0.291"
+    ],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "finalized",
+    "parseDuration": 1602778,
+    "totalTokens": 150673,
+    "totalSnippets": 2052,
+    "averageTokens": 73.42738791423002,
+    "errorCount": 5,
+    "totalPages": 998
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache ECharts",
+    "project": "echarts",
+    "docsRepoUrl": "https://github.com/apache/echarts-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 383655,
+    "totalTokens": 84415,
+    "totalSnippets": 338,
+    "averageTokens": 249.74852071005918,
+    "errorCount": 6,
+    "validationDate": "2025-03-20T01:03:55.502Z"
+  }
+}

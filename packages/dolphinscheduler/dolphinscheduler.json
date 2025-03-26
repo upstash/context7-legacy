@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache DolphinScheduler",
+    "project": "dolphinscheduler",
+    "docsRepoUrl": "https://github.com/apache/dolphinscheduler-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 195024,
+    "totalTokens": 14056,
+    "totalSnippets": 112,
+    "averageTokens": 125.5,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:01:36.850Z"
+  }
+}

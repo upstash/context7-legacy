@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "ESLint",
+    "project": "eslint",
+    "docsRepoUrl": "https://github.com/eslint/eslint.org",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 255780,
+    "totalTokens": 29519,
+    "totalSnippets": 348,
+    "averageTokens": 84.82471264367815,
+    "errorCount": 3,
+    "validationDate": "2025-03-20T01:04:32.599Z"
+  }
+}

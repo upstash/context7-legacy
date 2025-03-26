@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Agno",
+    "project": "agno",
+    "docsRepoUrl": "https://github.com/agno-agi/agno",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 105877,
+    "totalTokens": 25369,
+    "totalSnippets": 347,
+    "averageTokens": 73.10951008645533,
+    "errorCount": 0,
+    "validationDate": "2025-03-19T23:41:41.286Z"
+  }
+}

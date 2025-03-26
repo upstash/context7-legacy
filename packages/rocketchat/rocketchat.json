@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Rocket.Chat",
+    "project": "rocketchat",
+    "docsRepoUrl": "https://github.com/RocketChat/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 347861,
+    "totalTokens": 10940,
+    "totalSnippets": 136,
+    "averageTokens": 80.44117647058823,
+    "errorCount": 382,
+    "validationDate": "2025-03-20T01:33:33.042Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Cordova",
+    "project": "cordova",
+    "docsRepoUrl": "https://github.com/apache/cordova-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 4792228,
+    "totalTokens": 1503406,
+    "totalSnippets": 12163,
+    "averageTokens": 123.60486722025816,
+    "errorCount": 20,
+    "validationDate": "2025-03-20T00:22:58.683Z"
+  }
+}

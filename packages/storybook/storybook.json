@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Storybook",
+    "project": "storybook",
+    "docsRepoUrl": "https://github.com/storybookjs/storybook",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 567061,
+    "totalTokens": 328007,
+    "totalSnippets": 2676,
+    "averageTokens": 122.5736173393124,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:40:23.180Z"
+  }
+}

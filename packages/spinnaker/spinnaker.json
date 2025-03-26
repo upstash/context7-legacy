@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Spinnaker",
+    "project": "spinnaker",
+    "docsRepoUrl": "https://github.com/spinnaker/spinnaker.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 516494,
+    "totalTokens": 117721,
+    "totalSnippets": 1115,
+    "averageTokens": 105.57937219730941,
+    "errorCount": 4,
+    "validationDate": "2025-03-20T01:37:59.279Z"
+  }
+}

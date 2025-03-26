@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Feathers",
+    "project": "feathers",
+    "docsRepoUrl": "https://github.com/feathersjs/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 4126,
+    "totalTokens": 0,
+    "totalSnippets": 0,
+    "averageTokens": 0,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:05:11.011Z"
+  }
+}

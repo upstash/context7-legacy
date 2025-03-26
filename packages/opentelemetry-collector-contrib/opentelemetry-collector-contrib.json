@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "OpenTelemetry Collector Contrib",
+    "project": "opentelemetry-collector-contrib",
+    "docsRepoUrl": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 577683,
+    "totalTokens": 115779,
+    "totalSnippets": 856,
+    "averageTokens": 135.25584112149534,
+    "errorCount": 4,
+    "validationDate": "2025-03-20T01:26:55.725Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "RxJS",
+    "project": "rxjs",
+    "docsRepoUrl": "https://github.com/ReactiveX/rxjs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 57634,
+    "totalTokens": 10651,
+    "totalSnippets": 116,
+    "averageTokens": 91.81896551724138,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:33:55.252Z"
+  }
+}

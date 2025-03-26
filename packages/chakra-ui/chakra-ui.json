@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Chakra UI",
+    "project": "chakra-ui",
+    "docsRepoUrl": "https://github.com/chakra-ui/chakra-ui-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "parsed",
+    "parseDuration": 354941,
+    "totalTokens": 107633,
+    "totalSnippets": 969,
+    "averageTokens": 111.07636738906089,
+    "errorCount": 1,
+    "validationDate": "2025-03-22T20:00:20.760Z"
+  }
+}

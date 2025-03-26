@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Azure SDK for Go",
+    "project": "azure-sdk-for-go",
+    "docsRepoUrl": "https://github.com/Azure/azure-sdk-for-go",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 1060283,
+    "totalTokens": 219650,
+    "totalSnippets": 2336,
+    "averageTokens": 94.02825342465754,
+    "errorCount": 4,
+    "validationDate": "2025-03-20T00:10:55.272Z"
+  }
+}

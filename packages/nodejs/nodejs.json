@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Node.js",
+    "project": "nodejs",
+    "docsRepoUrl": "https://github.com/nodejs/nodejs.org",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 1244939,
+    "totalTokens": 718036,
+    "totalSnippets": 1485,
+    "averageTokens": 483.52592592592595,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:25:24.486Z"
+  }
+}

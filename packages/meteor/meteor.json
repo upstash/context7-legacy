@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Meteor",
+    "project": "meteor",
+    "docsRepoUrl": "https://github.com/meteor/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 76114,
+    "totalTokens": 16831,
+    "totalSnippets": 180,
+    "averageTokens": 93.50555555555556,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:23:04.427Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Flutter",
+    "project": "flutter",
+    "docsRepoUrl": "https://github.com/flutter/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 425357,
+    "totalTokens": 204591,
+    "totalSnippets": 1780,
+    "averageTokens": 114.93876404494382,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:05:55.167Z"
+  }
+}

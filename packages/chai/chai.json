@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Chai",
+    "project": "chai",
+    "docsRepoUrl": "https://github.com/chaijs/chai-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 213469,
+    "totalTokens": 66138,
+    "totalSnippets": 773,
+    "averageTokens": 85.5601552393273,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:21:21.828Z"
+  }
+}

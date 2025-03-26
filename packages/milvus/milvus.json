@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Milvus",
+    "project": "milvus",
+    "docsRepoUrl": "https://github.com/milvus-io/milvus",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 177889,
+    "totalTokens": 42336,
+    "totalSnippets": 355,
+    "averageTokens": 119.25633802816901,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:23:17.051Z"
+  }
+}

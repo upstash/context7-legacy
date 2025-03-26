@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Composio",
+    "project": "composio",
+    "docsRepoUrl": "https://github.com/ComposioHQ/composio",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 530114,
+    "totalTokens": 123726,
+    "totalSnippets": 1378,
+    "averageTokens": 89.7866473149492,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T00:22:39.513Z"
+  }
+}

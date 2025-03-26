@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Kotlin",
+    "project": "kotlin",
+    "docsRepoUrl": "https://github.com/JetBrains/kotlin-web-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 418015,
+    "totalTokens": 108743,
+    "totalSnippets": 1172,
+    "averageTokens": 92.78412969283276,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:20:38.814Z"
+  }
+}

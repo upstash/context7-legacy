@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "GPUStack",
+    "project": "gpustack",
+    "docsRepoUrl": "https://github.com/gpustack/gpustack",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 63244,
+    "totalTokens": 14538,
+    "totalSnippets": 125,
+    "averageTokens": 116.304,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:06:37.969Z"
+  }
+}

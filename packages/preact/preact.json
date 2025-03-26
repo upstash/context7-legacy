@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Preact",
+    "project": "preact",
+    "docsRepoUrl": "https://github.com/preactjs/preact-www",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 159546,
+    "totalTokens": 32388,
+    "totalSnippets": 287,
+    "averageTokens": 112.85017421602788,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:27:55.604Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "AdonisJS",
+    "project": "adonisjs",
+    "docsRepoUrl": "https://github.com/adonisjs/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 2879,
+    "totalTokens": 0,
+    "totalSnippets": 0,
+    "averageTokens": 0,
+    "errorCount": 0,
+    "validationDate": "2025-03-19T23:41:35.715Z"
+  }
+}

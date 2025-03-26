@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Vitest",
+    "project": "vitest",
+    "docsRepoUrl": "https://github.com/vitest-dev/vitest",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 128416,
+    "totalTokens": 27578,
+    "totalSnippets": 273,
+    "averageTokens": 101.01831501831502,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:43:21.735Z"
+  }
+}

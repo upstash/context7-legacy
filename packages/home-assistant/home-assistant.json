@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Home Assistant",
+    "project": "home-assistant",
+    "docsRepoUrl": "https://github.com/home-assistant/home-assistant.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 57614,
+    "totalTokens": 7691,
+    "totalSnippets": 104,
+    "averageTokens": 73.95192307692308,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:17:20.193Z"
+  }
+}

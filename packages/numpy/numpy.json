@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "NumPy",
+    "project": "numpy",
+    "docsRepoUrl": "https://github.com/numpy/numpy.org",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 31481,
+    "totalTokens": 672,
+    "totalSnippets": 14,
+    "averageTokens": 48,
+    "needsValidation": true,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:25:28.025Z"
+  }
+}

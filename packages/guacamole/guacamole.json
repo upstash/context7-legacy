@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Guacamole",
+    "project": "guacamole",
+    "docsRepoUrl": "https://github.com/apache/guacamole-manual",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 66342,
+    "totalTokens": 13468,
+    "totalSnippets": 107,
+    "averageTokens": 125.86915887850468,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:07:18.306Z"
+  }
+}

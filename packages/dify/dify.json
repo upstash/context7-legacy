@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Dify",
+    "project": "dify",
+    "docsRepoUrl": "https://github.com/langgenius/dify-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-13",
+    "state": "finalized",
+    "parseDuration": 159362,
+    "totalTokens": 48969,
+    "totalSnippets": 393,
+    "averageTokens": 124.6030534351145,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:01:00.511Z"
+  }
+}

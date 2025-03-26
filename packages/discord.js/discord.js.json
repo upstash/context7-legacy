@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Discord.js",
+    "project": "discord.js",
+    "docsRepoUrl": "https://github.com/discordjs/guide",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 119098,
+    "totalTokens": 35923,
+    "totalSnippets": 315,
+    "averageTokens": 114.04126984126984,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:01:13.509Z"
+  }
+}

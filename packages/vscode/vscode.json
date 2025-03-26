@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Visual Studio Code",
+    "project": "vscode",
+    "docsRepoUrl": "https://github.com/microsoft/vscode-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 425535,
+    "totalTokens": 141019,
+    "totalSnippets": 1506,
+    "averageTokens": 93.63811420982736,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:43:26.634Z"
+  }
+}

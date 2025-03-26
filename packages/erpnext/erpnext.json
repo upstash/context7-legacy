@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "ERPNext",
+    "project": "erpnext",
+    "docsRepoUrl": "https://github.com/frappe/erpnext_documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "parsed",
+    "parseDuration": 1152226,
+    "totalTokens": 157701,
+    "totalSnippets": 2217,
+    "averageTokens": 71.13261163734776,
+    "errorCount": 15,
+    "validationDate": "2025-03-22T20:02:07.341Z"
+  }
+}

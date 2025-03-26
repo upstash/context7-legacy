@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "SvelteKit",
+    "project": "sveltekit",
+    "docsRepoUrl": "https://github.com/sveltejs/kit",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 49973,
+    "totalTokens": 17868,
+    "totalSnippets": 181,
+    "averageTokens": 98.7182320441989,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:41:30.216Z"
+  }
+}

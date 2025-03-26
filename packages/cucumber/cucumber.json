@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Cucumber",
+    "project": "cucumber",
+    "docsRepoUrl": "https://github.com/cucumber/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 63750,
+    "totalTokens": 11227,
+    "totalSnippets": 115,
+    "averageTokens": 97.62608695652175,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:23:20.512Z"
+  }
+}

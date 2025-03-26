@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Docker",
+    "project": "docker",
+    "docsRepoUrl": "https://github.com/docker/docker.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 818440,
+    "totalTokens": 206486,
+    "totalSnippets": 2100,
+    "averageTokens": 98.32666666666667,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:01:21.702Z"
+  }
+}

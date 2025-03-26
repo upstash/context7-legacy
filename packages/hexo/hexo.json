@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Hexo",
+    "project": "hexo",
+    "docsRepoUrl": "https://github.com/hexojs/site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 266531,
+    "totalTokens": 38792,
+    "totalSnippets": 581,
+    "averageTokens": 66.76764199655766,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:16:38.539Z"
+  }
+}

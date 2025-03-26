@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Capacitor",
+    "project": "capacitor",
+    "docsRepoUrl": "https://github.com/ionic-team/capacitor-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 1054005,
+    "totalTokens": 155868,
+    "totalSnippets": 1910,
+    "averageTokens": 81.60628272251309,
+    "errorCount": 135,
+    "validationDate": "2025-03-20T00:20:08.652Z"
+  }
+}

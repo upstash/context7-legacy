@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "LoopBack",
+    "project": "loopback",
+    "docsRepoUrl": "https://github.com/loopbackio/loopback.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 3221944,
+    "totalTokens": 481395,
+    "totalSnippets": 5545,
+    "averageTokens": 86.81605049594229,
+    "errorCount": 467,
+    "validationDate": "2025-03-20T01:21:59.077Z"
+  }
+}

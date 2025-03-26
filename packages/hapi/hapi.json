@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "hapi",
+    "project": "hapi",
+    "docsRepoUrl": "https://github.com/hapijs/hapi.dev",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 117459,
+    "totalTokens": 9169,
+    "totalSnippets": 89,
+    "averageTokens": 103.02247191011236,
+    "errorCount": 11,
+    "validationDate": "2025-03-20T01:13:23.965Z"
+  }
+}

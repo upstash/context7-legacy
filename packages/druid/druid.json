@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Druid",
+    "project": "druid",
+    "docsRepoUrl": "https://github.com/apache/druid-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 1297778,
+    "totalTokens": 365774,
+    "totalSnippets": 2847,
+    "averageTokens": 128.4769933263084,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:02:39.311Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Docusaurus",
+    "project": "docusaurus",
+    "docsRepoUrl": "https://github.com/facebook/docusaurus",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "finalized",
+    "parseDuration": 893132,
+    "totalTokens": 238289,
+    "totalSnippets": 2499,
+    "averageTokens": 95.35374149659864,
+    "errorCount": 380,
+    "totalPages": 1292
+  }
+}

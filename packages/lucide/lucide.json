@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Lucide",
+    "project": "lucide",
+    "docsRepoUrl": "https://github.com/lucide-icons/lucide",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 48242,
+    "totalTokens": 11518,
+    "totalSnippets": 160,
+    "averageTokens": 71.9875,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:22:07.034Z"
+  }
+}

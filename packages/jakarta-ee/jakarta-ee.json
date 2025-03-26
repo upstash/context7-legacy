@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Jakarta EE",
+    "project": "jakarta-ee",
+    "docsRepoUrl": "https://github.com/eclipse-ee4j/jakartaee-tutorial",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 8798,
+    "totalTokens": 96,
+    "totalSnippets": 3,
+    "averageTokens": 32,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:18:54.185Z"
+  }
+}

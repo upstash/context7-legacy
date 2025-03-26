@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "RAGflow",
+    "project": "ragflow",
+    "docsRepoUrl": "https://github.com/infiniflow/ragflow",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 85532,
+    "totalTokens": 12005,
+    "totalSnippets": 109,
+    "averageTokens": 110.13761467889908,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:31:57.143Z"
+  }
+}

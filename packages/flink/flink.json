@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Flink",
+    "project": "flink",
+    "docsRepoUrl": "https://github.com/apache/flink-web",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 292904,
+    "totalTokens": 58765,
+    "totalSnippets": 472,
+    "averageTokens": 124.50211864406779,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:05:32.136Z"
+  }
+}

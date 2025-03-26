@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Lit",
+    "project": "lit",
+    "docsRepoUrl": "https://github.com/lit/lit.dev",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 294450,
+    "totalTokens": 74123,
+    "totalSnippets": 827,
+    "averageTokens": 89.62877871825877,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:21:32.333Z"
+  }
+}

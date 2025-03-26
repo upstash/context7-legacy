@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "OpenSearch",
+    "project": "opensearch",
+    "docsRepoUrl": "https://github.com/opensearch-project/documentation-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 1532145,
+    "totalTokens": 464014,
+    "totalSnippets": 3943,
+    "averageTokens": 117.68044636063911,
+    "errorCount": 9,
+    "validationDate": "2025-03-20T01:26:42.711Z"
+  }
+}

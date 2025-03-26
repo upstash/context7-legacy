@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Godot Engine",
+    "project": "godot-engine",
+    "docsRepoUrl": "https://github.com/godotengine/godot-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 780800,
+    "totalTokens": 224917,
+    "totalSnippets": 2164,
+    "averageTokens": 103.93576709796673,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:06:34.464Z"
+  }
+}

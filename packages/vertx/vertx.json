@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Eclipse Vert.x",
+    "project": "vertx",
+    "docsRepoUrl": "https://github.com/vert-x3/vertx-web-site",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 211241,
+    "totalTokens": 48711,
+    "totalSnippets": 399,
+    "averageTokens": 122.0827067669173,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:43:13.345Z"
+  }
+}

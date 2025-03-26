@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Rust",
+    "project": "rust",
+    "docsRepoUrl": "https://github.com/rust-lang/book",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 218005,
+    "totalTokens": 78399,
+    "totalSnippets": 755,
+    "averageTokens": 103.83973509933774,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:33:52.395Z"
+  }
+}

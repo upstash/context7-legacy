@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "TensorFlow",
+    "project": "tensorflow",
+    "docsRepoUrl": "https://github.com/tensorflow/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-23",
+    "state": "finalized",
+    "parseDuration": 552465,
+    "totalTokens": 174182,
+    "totalSnippets": 1380,
+    "averageTokens": 126.21884057971015,
+    "errorCount": 0,
+    "totalPages": 301
+  }
+}

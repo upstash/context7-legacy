@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "k6",
+    "project": "k6",
+    "docsRepoUrl": "https://github.com/grafana/k6-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 7573032,
+    "totalTokens": 2148541,
+    "totalSnippets": 12284,
+    "averageTokens": 174.90564962552915,
+    "errorCount": 26,
+    "validationDate": "2025-03-20T01:19:46.664Z"
+  }
+}

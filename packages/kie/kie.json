@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "KIE",
+    "project": "kie",
+    "docsRepoUrl": "https://github.com/kiegroup/kie-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 18180,
+    "totalTokens": 105,
+    "totalSnippets": 1,
+    "averageTokens": 105,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:20:21.963Z"
+  }
+}

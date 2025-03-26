@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Micrometer",
+    "project": "micrometer",
+    "docsRepoUrl": "https://github.com/micrometer-metrics/micrometer-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 11553,
+    "totalTokens": 207,
+    "totalSnippets": 6,
+    "averageTokens": 34.5,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:23:07.277Z"
+  }
+}

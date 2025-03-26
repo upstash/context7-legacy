@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache SkyWalking",
+    "project": "skywalking",
+    "docsRepoUrl": "https://github.com/apache/skywalking-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 889800,
+    "totalTokens": 54294,
+    "totalSnippets": 516,
+    "averageTokens": 105.22093023255815,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:35:05.763Z"
+  }
+}

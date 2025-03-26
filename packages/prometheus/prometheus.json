@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Prometheus",
+    "project": "prometheus",
+    "docsRepoUrl": "https://github.com/prometheus/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 61891,
+    "totalTokens": 16839,
+    "totalSnippets": 151,
+    "averageTokens": 111.51655629139073,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:30:38.608Z"
+  }
+}

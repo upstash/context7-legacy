@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "IntelliJ Platform SDK",
+    "project": "intellij-platform-sdk",
+    "docsRepoUrl": "https://github.com/JetBrains/intellij-sdk-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 374504,
+    "totalTokens": 83813,
+    "totalSnippets": 894,
+    "averageTokens": 93.75055928411633,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:17:27.858Z"
+  }
+}

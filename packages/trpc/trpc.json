@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "tRPC",
+    "project": "trpc",
+    "docsRepoUrl": "https://github.com/trpc/trpc",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 152606,
+    "totalTokens": 93921,
+    "totalSnippets": 673,
+    "averageTokens": 139.555720653789,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:42:23.933Z"
+  }
+}

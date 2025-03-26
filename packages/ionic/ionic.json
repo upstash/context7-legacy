@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Ionic",
+    "project": "ionic",
+    "docsRepoUrl": "https://github.com/ionic-team/ionic-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "parsed",
+    "parseDuration": 4269629,
+    "totalTokens": 2160035,
+    "totalSnippets": 12025,
+    "averageTokens": 179.62869022869023,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T20:03:19.121Z"
+  }
+}

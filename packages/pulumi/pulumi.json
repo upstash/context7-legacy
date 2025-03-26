@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Pulumi",
+    "project": "pulumi",
+    "docsRepoUrl": "https://github.com/pulumi/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "parsed",
+    "parseDuration": 1376728,
+    "totalTokens": 590102,
+    "totalSnippets": 3781,
+    "averageTokens": 156.07035175879398,
+    "errorCount": 0,
+    "validationDate": "2025-03-22T21:06:51.798Z"
+  }
+}

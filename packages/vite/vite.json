@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Vite",
+    "project": "vite",
+    "docsRepoUrl": "https://github.com/vitejs/vite",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 63041,
+    "totalTokens": 19721,
+    "totalSnippets": 197,
+    "averageTokens": 100.10659898477158,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:43:18.746Z"
+  }
+}

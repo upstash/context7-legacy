@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Strapi",
+    "project": "strapi",
+    "docsRepoUrl": "https://github.com/strapi/documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-17",
+    "state": "finalized",
+    "parseDuration": 316690,
+    "totalTokens": 78903,
+    "totalSnippets": 725,
+    "averageTokens": 108.83172413793103,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:40:33.304Z"
+  }
+}

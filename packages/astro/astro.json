@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Astro",
+    "project": "astro",
+    "docsRepoUrl": "https://github.com/withastro/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-13",
+    "state": "finalized",
+    "parseDuration": 521695,
+    "totalTokens": 136616,
+    "totalSnippets": 1473,
+    "averageTokens": 92.74677528852682,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:10:32.101Z"
+  }
+}

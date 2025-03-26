@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Dice",
+    "project": "dice",
+    "docsRepoUrl": "https://github.com/DiceDB/dice",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 168616,
+    "totalTokens": 51790,
+    "totalSnippets": 663,
+    "averageTokens": 78.11463046757164,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:25:59.093Z"
+  }
+}

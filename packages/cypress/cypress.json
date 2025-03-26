@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Cypress",
+    "project": "cypress",
+    "docsRepoUrl": "https://github.com/cypress-io/cypress-documentation",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-15",
+    "state": "finalized",
+    "parseDuration": 274149,
+    "totalTokens": 86230,
+    "totalSnippets": 1033,
+    "averageTokens": 83.4753146176186,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:23:46.054Z"
+  }
+}

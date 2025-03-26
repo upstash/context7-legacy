@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Rancher",
+    "project": "rancher",
+    "docsRepoUrl": "https://github.com/rancher/rancher",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 104468,
+    "totalTokens": 19667,
+    "totalSnippets": 145,
+    "averageTokens": 135.6344827586207,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:32:06.206Z"
+  }
+}

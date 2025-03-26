@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Processing",
+    "project": "processing",
+    "docsRepoUrl": "https://github.com/processing/processing-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 37656,
+    "totalTokens": 5850,
+    "totalSnippets": 31,
+    "averageTokens": 188.70967741935485,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:30:34.880Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "MUI",
+    "project": "mui",
+    "docsRepoUrl": "https://github.com/mui/material-ui",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 250640,
+    "totalTokens": 112401,
+    "totalSnippets": 1317,
+    "averageTokens": 85.34624145785877,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:24:07.968Z"
+  }
+}

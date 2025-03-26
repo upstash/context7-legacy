@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Javalin",
+    "project": "javalin",
+    "docsRepoUrl": "https://github.com/javalin/javalin.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 210281,
+    "totalTokens": 59005,
+    "totalSnippets": 469,
+    "averageTokens": 125.81023454157783,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:19:07.221Z"
+  }
+}

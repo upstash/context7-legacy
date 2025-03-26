@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Filament",
+    "project": "filament",
+    "docsRepoUrl": "https://github.com/filamentphp/filament",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 299013,
+    "totalTokens": 83262,
+    "totalSnippets": 962,
+    "averageTokens": 86.55093555093555,
+    "errorCount": 2,
+    "validationDate": "2025-03-20T01:05:17.183Z"
+  }
+}

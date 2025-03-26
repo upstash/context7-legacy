@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Parcel",
+    "project": "parcel",
+    "docsRepoUrl": "https://github.com/parcel-bundler/website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 104517,
+    "totalTokens": 23996,
+    "totalSnippets": 283,
+    "averageTokens": 84.79151943462898,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:27:21.495Z"
+  }
+}

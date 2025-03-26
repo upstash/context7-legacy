@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "DB-GPT",
+    "project": "db-gpt",
+    "docsRepoUrl": "https://github.com/eosphoros-ai/DB-GPT",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 334728,
+    "totalTokens": 91310,
+    "totalSnippets": 524,
+    "averageTokens": 174.25572519083968,
+    "errorCount": 13,
+    "validationDate": "2025-03-20T00:24:04.961Z"
+  }
+}

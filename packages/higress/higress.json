@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "Higress",
+    "project": "higress",
+    "docsRepoUrl": "https://github.com/alibaba/higress",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 151131,
+    "totalTokens": 44558,
+    "totalSnippets": 285,
+    "averageTokens": 156.3438596491228,
+    "totalPages": 141,
+    "errorCount": 5,
+    "validationDate": "2025-03-20T01:16:54.076Z"
+  }
+}

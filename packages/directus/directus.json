@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Directus",
+    "project": "directus",
+    "docsRepoUrl": "https://github.com/directus/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 343361,
+    "totalTokens": 102714,
+    "totalSnippets": 768,
+    "averageTokens": 133.7421875,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:01:10.198Z"
+  }
+}

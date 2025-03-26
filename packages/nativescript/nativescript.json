@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "NativeScript",
+    "project": "nativescript",
+    "docsRepoUrl": "https://github.com/NativeScript/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 444834,
+    "totalTokens": 101456,
+    "totalSnippets": 1246,
+    "averageTokens": 81.42536115569824,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:24:20.182Z"
+  }
+}

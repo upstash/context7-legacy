@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Moby",
+    "project": "moby",
+    "docsRepoUrl": "https://github.com/moby/moby",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 332931,
+    "totalTokens": 69746,
+    "totalSnippets": 617,
+    "averageTokens": 113.04051863857374,
+    "errorCount": 1,
+    "validationDate": "2025-03-20T01:23:32.539Z"
+  }
+}

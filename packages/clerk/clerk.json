@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Clerk",
+    "project": "clerk",
+    "docsRepoUrl": "https://github.com/clerk/clerk-docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-24",
+    "state": "finalized",
+    "parseDuration": 5678772,
+    "totalTokens": 216901,
+    "totalSnippets": 1492,
+    "averageTokens": 145.37600536193028,
+    "errorCount": 3,
+    "totalPages": 620
+  }
+}

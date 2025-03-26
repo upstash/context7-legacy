@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Apache Camel",
+    "project": "camel",
+    "docsRepoUrl": "https://github.com/apache/camel-website",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 465096,
+    "totalTokens": 53303,
+    "totalSnippets": 463,
+    "averageTokens": 115.12526997840173,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T00:14:58.630Z"
+  }
+}

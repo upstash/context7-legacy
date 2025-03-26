@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "title": "ReactiveX",
+    "project": "reactivex",
+    "docsRepoUrl": "https://github.com/ReactiveX/reactivex.github.io",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-18",
+    "state": "finalized",
+    "parseDuration": 35056,
+    "totalTokens": 946,
+    "totalSnippets": 9,
+    "averageTokens": 105.11111111111111,
+    "needsValidation": true,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:32:42.317Z"
+  }
+}

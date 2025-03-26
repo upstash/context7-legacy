@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "PyTorch",
+    "project": "pytorch",
+    "docsRepoUrl": "https://github.com/pytorch/tutorials",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-16",
+    "state": "finalized",
+    "parseDuration": 528903,
+    "totalTokens": 71743,
+    "totalSnippets": 471,
+    "averageTokens": 152.32059447983013,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:31:08.406Z"
+  }
+}

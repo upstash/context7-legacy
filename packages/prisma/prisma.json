@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "title": "Prisma",
+    "project": "prisma",
+    "docsRepoUrl": "https://github.com/prisma/docs",
+    "folders": [],
+    "excludeFolders": [
+      "*archive*",
+      "*archived*",
+      "old",
+      "docs/old",
+      "*deprecated*"
+    ]
+  },
+  "version": {
+    "lastUpdate": "2025-03-11",
+    "state": "finalized",
+    "parseDuration": 282890,
+    "totalTokens": 143733,
+    "totalSnippets": 1441,
+    "averageTokens": 99.74531575294934,
+    "errorCount": 0,
+    "validationDate": "2025-03-20T01:30:27.082Z"
+  }
+}
