@@ -119,16 +119,7 @@ Head to [context7.com/add-package](https://context7.com/add-package) and add you
 
 ## API Integration
 
-Retrieve contextual snippets programmatically with our straightforward API:
-
-```
-curl -X POST "https://api.context7.com/query" \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer YOUR_API_KEY" \
-  -d '{"query":"How to use feature X", "project":"your-project-name"}'
-```
-
-Explore full details in our [API documentation](https://context7.com/docs/api).
+Coming soon!
 
 ---
 
@@ -143,10 +134,6 @@ We’d love your input! See our [contribution guidelines](https://github.com/ups
 Help us improve by reporting bugs or suggesting features [here](https://github.com/upstash/context7/issues/new).
 
 ---
-
-## License
-
-Context7 is licensed under the [MIT License](https://github.com/upstash/context7/blob/main/LICENSE).
 
 ```
 
