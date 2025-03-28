@@ -3,9 +3,6 @@
 **Instant LLM Context for AI Agents and Developers**
 
 [![Website](https://img.shields.io/badge/Website-context7.com-blue)](https://context7.com)
-[![Free Plan](https://img.shields.io/badge/Free_Plan-50_Queries/Day-green)](https://context7.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Star_Us-yellow)](https://github.com/upstash/context7)
-
 ---
 
 ## What is Context7?
