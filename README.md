@@ -4,6 +4,8 @@ Instant LLM Context for AI Agents and Developers
 
 [![Website](https://img.shields.io/badge/Website-context7.com-blue)](https://context7.com)
 
+[![MCP Server](https://img.shields.io/badge/MCP%20Server-context7-mcp-green)](https://github.com/upstash/context7-mcp)
+
 ---
 
 ## What is Context7?
