@@ -63,7 +63,7 @@ This keeps users in your documentation while giving them quick access to impleme
 
 ### Option 1: Automated Addition (Recommended)
 
-Head to [context7.com/add-package](https://context7.com/add-package) and add your project via our simple web interface.
+Head to [context7.com/add-library](https://context7.com/add-library) and add your project via our simple web interface.
 
 ### Option 2: Manual Addition via Pull Request
 
