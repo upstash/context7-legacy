@@ -1,8 +1,9 @@
 # Context7
 
-**Instant LLM Context for AI Agents and Developers**
+Instant LLM Context for AI Agents and Developers
 
 [![Website](https://img.shields.io/badge/Website-context7.com-blue)](https://context7.com)
+
 ---
 
 ## What is Context7?
@@ -14,7 +15,7 @@ Context7 is a robust platform designed to create, manage, and leverage context l
 ✅ **Focused Content:** Includes only code and descriptions—no fluff or filler  
 ✅ **Free Tier:** Up to 50 queries per day for personal use at no cost  
 ✅ **Broad Compatibility:** Works seamlessly with MCP servers (e.g., Cursor, Windsurf)  
-✅ **Fast Integration:** Generate project-specific context in minutes and embed Context7 links directly into your documentation
+✅ **Fast Integration:** Generate library-specific context in minutes and embed Context7 links directly into your documentation
 
 ---
 
@@ -37,11 +38,11 @@ Context7 transforms documentation into actionable context through a streamlined 
 
 ---
 
-## Using Context7 in Your Projects
+## Using Context7
 
-### Generate Context for Your Project
+### Generate Context for Your Library
 
-1. Add your project to Context7 using one of the methods below.
+1. Add your library to Context7 using one of the methods below.
 2. Once processed, access your documentation as contextual snippets.
 3. Refine results by searching topics and adjusting token size as needed.
 
@@ -49,9 +50,9 @@ Context7 transforms documentation into actionable context through a streamlined 
 
 Boost your docs with instant code examples by adding a Context7 link:
 
-```
-<a href="https://context7.com/YOUR_PROJECT/llm.txt?tokenLimit=MAX_TOKEN_LIMIT" target="_blank">
-  See LLM.txt with code examples
+```html
+<a href="https://context7.com/YOUR_LIBRARY/llms.txt?tokenLimit=MAX_TOKEN_LIMIT" target="_blank">
+  See llms.txt with code examples
 </a>
 ```
 
@@ -59,27 +60,27 @@ This keeps users in your documentation while giving them quick access to impleme
 
 ---
 
-## Adding Your Project to Context7
+## Adding Your Library to Context7
 
 ### Option 1: Automated Addition (Recommended)
 
-Head to [context7.com/add-library](https://context7.com/add-library) and add your project via our simple web interface.
+Head to [context7.com/add-library](https://context7.com/add-library) and add your library via our simple web interface.
 
 ### Option 2: Manual Addition via Pull Request
 
-1. Create a JSON file with your project details (see schema below).
+1. Create a JSON file with your library details (see schema below).
 2. Submit a Pull Request to our repository.
-3. Once approved and merged, your project will be indexed and available.
+3. Once approved and merged, your library will be indexed and available.
 
 > [!IMPORTANT]  
-> Ensure the repo includes the documentation files of the project with md/mdx/txt/rst/ipynb format.
+> Ensure the repo includes the documentation files of the library with md/mdx/txt/rst/ipynb format.
 
-### Project JSON Schema
+### Library JSON Schema
 
-```
+```json
 {
   "settings": {
-    "project": "project-name", // Unique, URL-friendly identifier
+    "library": "library-name", // Unique, URL-friendly identifier
     "title": "Human-Readable Title", // Display name
     "docsRepoUrl": "https://github.com/organization/repo",
     "folders": ["docs"], // Optional: folders to include
@@ -92,7 +93,7 @@ Head to [context7.com/add-library](https://context7.com/add-library) and add you
     "totalSnippets": 0, // Set by system after processing
     "averageTokens": 0, // Set by system after processing
     "parseDuration": 0, // Set by system after processing
-    "state": "initial", // Initial state for new projects
+    "state": "initial", // Initial state for new libraries
     "errorCount": 0 // Set by system after processing
   }
 }
@@ -100,17 +101,17 @@ Head to [context7.com/add-library](https://context7.com/add-library) and add you
 
 ---
 
-## Project States
+## Library States
 
 | State          | Description                             |
 | -------------- | --------------------------------------- |
-| `initial`      | Project created, not yet processed      |
+| `initial`      | Library created, not yet processed      |
 | `parsed`       | Documentation parsed, not yet finalized |
 | `finalized`    | Fully processed and ready to use        |
 | `error`        | Processing hit an error                 |
 | `invalid_docs` | Docs couldn’t be parsed correctly       |
 | `stop`         | Processing halted manually              |
-| `delete`       | Project slated for removal              |
+| `delete`       | Library slated for removal              |
 
 ---
 
@@ -129,9 +130,3 @@ We’d love your input! See our [contribution guidelines](https://github.com/ups
 ## Issues
 
 Help us improve by reporting bugs or suggesting features [here](https://github.com/upstash/context7/issues/new).
-
----
-
-```
-
-```
